@@ -18,6 +18,6 @@ Database design and implementation for a library system that manages books, auth
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
 ## 📁 Project stages
-- **Stage 1 ** — Installation manual and setup guide.
+- **Stage 1** — Installation manual and setup guide.
 - **Stage 2A** — Database modeling and DDL scripts.
 - **Stage 2B** — Data loading and query reports.
