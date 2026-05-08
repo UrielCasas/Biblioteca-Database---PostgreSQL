@@ -1,5 +1,7 @@
 # Library-Database---PostgreSQL
 Academic project for the Database Management subject. Approved with a perfect score.
+> If you see something that's wrong or could be improved, please,
+> share it with me. All new information is welcome!
 
 ## 📋 About the project
 Database design and implementation for a library system that manages books, authors, users and loans.
