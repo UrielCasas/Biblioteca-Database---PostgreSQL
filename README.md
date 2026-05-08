@@ -2,8 +2,8 @@
 Academic project for the Database Management subject. Approved with a perfect score.
 
 ## 📋 About the project
-Database design and implementation for a library system 
-that manages books, authors, users and loans.
+Database design and implementation for a library system that manages books, authors, users and loans.
+> Academic documents and reports are written in Spanish as required by the institution.
 
 ## 🗄️ Structure
 - **Authors** — Book authors.
